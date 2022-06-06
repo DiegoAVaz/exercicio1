@@ -5,6 +5,9 @@ var num2 = parseInt(prompt('Digite outro número para somar: '))
 alert(num1 + num2) 
 */
 
+// ====================================================================
+
+/*
 var idade = prompt('Digite sua idade')
 
 if (idade >= 18){
@@ -12,3 +15,7 @@ if (idade >= 18){
 } else {
     alert('Você é menor de idade')
 }
+*/
+
+// ====================================================================
+
